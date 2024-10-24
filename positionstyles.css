@@ -1,0 +1,305 @@
+/* CSS - Name: "positionstyles.css" */
+
+/* Activity 1 styles */
+.content1 {
+  /* This is the parent of the activity 1 boxes. */
+  position: relative; 
+  width: 100%;
+  height: 120px; 
+}
+.red1 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green1 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow1 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue1 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+  top: 0; 
+} 
+
+/* Activity 2 styles */ 
+.content2 {
+  /* This is the parent of the activity 2 boxes. */
+  position: relative; 
+  width: 100%; 
+  height: 120px; 
+}
+.red2 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green2 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow2 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue2 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+} 
+
+/* Activity 3 styles */ 
+.content3 {
+  /* This is the parent of the activity 3 boxes. */
+  position: relative; 
+  width: 100%; 
+  height: 120px; 
+}
+.red3 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green3 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow3 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue3 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+} 
+
+/* Activity 4 styles */ 
+.content4 {
+  /* This is the parent of the activity 4 boxes. */
+  position: relative; 
+  width: 100%; 
+  height: 400px; 
+}
+.red4 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green4 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow4 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue4 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+} 
+
+/* Activity 5 styles */ 
+.content5 {
+  /* This is the parent of the activity 5 boxes. */
+  position: relative; 
+  width: 100%; 
+  height: 400px; 
+}
+.red5 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green5 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow5 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue5 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+} 
+
+/* Activity 6 styles */ 
+.content6 {
+  /* This is the parent of the activity 6 boxes. */
+  position: relative; 
+  width: 100%; 
+  height: 120px; 
+}
+.red6 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: red; 
+  left: 0; 
+  top: 0; 
+} 
+.green6 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: green; 
+  left: 110px; 
+  top: 0; 
+} 
+.yellow6 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: gold; 
+  left: 220px; 
+  top: 0; 
+} 
+.blue6 { 
+  position: absolute; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
+  left: 330px; 
+} 
+
+/* Do not make any changes below here */
+.activity {
+  width: 70%; 
+  margin: 20px auto; 
+  font-family: Arial, sans-serif; 
+  border: 1px solid black; 
+  padding: 10px; 
+  clear: both; 
+  overflow: auto;
+} 
+
+.hint {
+  border: 1px solid grey;
+  background: #e0e0e0;
+  padding: .5em;
+  position: relative;
+  margin: 1em 0;
+}
+.hint h3 {
+  margin: 0;
+}
+.hint:hover {
+  background: #d0d0d0;
+}
+.hint > div {
+  display: none;
+}
+.hint input[type=checkbox] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 1;
+  cursor: pointer;
+}
+.hint input[type=checkbox]:checked ~ div {
+  display: block;
+}
+.hint i {
+  position: absolute;
+  transform: translate(-6px, 0);
+  margin-top: 16px;
+  right: 10px;
+  top: -3px;
+}
+.hint i:before, .hint i:after {
+  content: "";
+  position: absolute;
+  background-color: black;
+  width: 3px;
+  height: 9px;
+}
+.hint i:before {
+  transform: translate(2px, 0) rotate(45deg);
+}
+.hint i:after {
+  transform: translate(-2px, 0) rotate(-45deg);
+}
+.hint input[type=checkbox]:checked ~ i:before {
+  transform: translate(-2px, 0) rotate(45deg);
+}
+.hint input[type=checkbox]:checked ~ i:after {
+  transform: translate(2px, 0) rotate(-45deg);
+}
+.hint a {
+  position: relative;
+  z-index: 1;
+}
