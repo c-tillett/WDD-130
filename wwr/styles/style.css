@@ -27,7 +27,8 @@ nav a:hover {
     text-align: center;
 }
 
-#hero-msg h4{
+#hero-msg h4
+{
     color: white;
 }
 
@@ -88,7 +89,8 @@ header{
     grid-template-columns: 150px auto;
 }
 
-.book, .join{
+.book, .join
+{
     background-color: #EAFDCF;
     color: #BCD39C;
     text-decoration: none;
