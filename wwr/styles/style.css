@@ -8,6 +8,11 @@ nav a{
     color: #BCD39C;
     text-decoration: none;
     padding: 35px;
+    
+}
+
+nav
+{
     display: flex;
     justify-content: space-around;
 }
@@ -206,6 +211,24 @@ footer .social img{
 
 .icon{
     width: 80px;
+}
+
+.title
+{
+    text-align: center;
+}
+
+.body1, .body2
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 15px;
+}
+
+.page2image, .page2text
+{
+    width: 100%;
+    padding: 25px;
 }
 
 @media screen and (max-width: 900px) {
