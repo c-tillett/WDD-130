@@ -1,4 +1,6 @@
-.hero, .img
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+
+.hero
 {
     max-width: 100%;   
     height: auto;      
@@ -8,7 +10,7 @@
 
 .result2, .result3, .result4
 {
-    max-width: 25%;   
+    max-width: 100%;   
     height: auto;      
     display: block;   
     margin: 0 auto;  
@@ -16,8 +18,140 @@
 
 .profile_pic
 {
-    max-width: 25%;   
-    height: auto;      
-    display: block;   
-    margin: 0 auto;  
+    grid-template-columns: 1fr 1fr;
+    max-width: 75%;   
+    height: auto;        
+    margin: 0 auto;
+    column-gap: 15px;
+    margin: 0 15px;  
+    text-align: center;
 }
+.img
+{
+    max-width: 100%;
+}
+
+.fblogo
+{
+    max-width: 100px;
+}
+
+div{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a{
+    text-align: center;
+    color: #FE0B0B;
+    text-decoration: none;
+    padding: 35px;
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #69140E;
+    color:#FE0B0B;
+}
+
+nav a:hover
+{
+    background-color: #4B1B1F;
+    color: white;
+}
+
+body
+{
+    background-color: #69140E;
+    color: #FE0B0B;
+}
+
+h1, h2, h3, h4, h5
+{
+    font-family: "Abolition";
+}
+p, nav, footer, a
+{
+    font-family: "Lato";
+}
+
+.Homepage-body, .Organizers_title
+{
+    text-align: center;
+}
+
+.homepage_paragraph
+{
+    margin: 0 10%;
+    margin-bottom: 25px;
+}
+
+.organizers_body
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 3%;
+    margin: 0 15px;
+    text-align: center;
+}
+.organizers_body p
+{
+    line-height: 1.5em;
+}
+
+.results3 .last
+{
+    grid-column: 1/3;
+    width: 50%;
+}
+
+.results4, .results2, .results3
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px;
+    margin: 0 15px;
+    row-gap: 15px;
+}
+
+.History_body a, .History_body p
+{
+    color:#FE0B0B;
+    display: block ;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.History_body .title
+{
+    text-align: center;
+}
+
+.History_opening
+{
+    text-align: center;
+}
+
+main
+{
+    margin: 5%;
+}
+
+.organizers
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12%;
+    text-align: center;
+}
+
+.organizers img
+{
+    max-height: 500px;
+    max-width: 376px;
+    object-fit: cover;
+}
+
